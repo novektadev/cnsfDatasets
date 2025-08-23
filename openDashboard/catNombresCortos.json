@@ -1,113 +1,166 @@
-{"ana compania de seguros": 1, 
- "afianzadora fiducia": 2, 
- "agroasemex": 3, 
- "aig seguros mexico": 4, 
- "allianz mexico": 5, 
- "armour secure insurance": 6, 
- "aseguradora aserta": 7, 
- "aseguradora insurgentes": 8, 
- "aseguradora patrimonial danos": 9, 
- "aseguradora patrimonial vida": 10, 
- "aserta seguros vida": 11, 
- "assurant danos mexico": 12, 
- "assurant vida mexico": 13, 
- "atradius seguros de credito": 14, 
- "avla seguros": 15, 
- "axa salud": 16, 
- "axa seguros": 17, 
- "bbva bancomer seguros salud": 18, 
- "berkley international compania de garantias mexico": 19, 
- "berkley international seguros mexico": 20, 
- "bupa mexico": 21, 
- "cardif mexico seguros de vida": 22, 
- "cardif mexico seguros generales": 23, 
- "cesce fianzas mexico": 24, 
- "cesce mexico": 25, 
- "chubb fianzas monterrey": 26, 
- "chubb seguros mexico": 27, 
- "coface seguro de credito mexico": 28,
- "compania de seguros generales everest mexico": 29, 
- "crabi": 30, 
- "credito afianzador": 31, 
- "deco seguros": 32, 
- "dentegra seguros dentales": 33, 
- "der neue horizont re": 34, 
- "dorama": 35, 
- "el aguila": 36, 
- "fianzas asecam": 37, 
- "fianzas avanza": 38, 
- "fianzas y cauciones atlas": 39, 
- "fm global de mexico": 40, 
- "general de salud": 41, 
- "general de seguros": 42, 
- "genworth seguros de credito a la vivienda": 43, 
- "grupo mexicano de seguros": 44, 
- "grupo nacional provincial": 45, 
- "hdi global seguros": 46, 
- "hdi seguros": 47, 
- "hir compania de seguros": 48, 
- "hsbc seguros": 49, 
- "inbursa seguros de caucion y fianzas": 50, 
- "insignia life": 51, 
- "la latinoamericana seguros": 52, 
- "liberty fianzas": 53, 
- "mapfre fianzas": 54, 
- "mapfre mexico": 55, 
- "medi access seguros de salud": 56, 
- "metlife mas": 57, 
- "metlife mexico": 58, 
- "metlife pensiones mexico": 59, 
- "momento seguros": 60, 
- "odontored seguros dentales": 61, 
- "pan american mexico": 62, 
- "pensiones banamex": 63, 
- "pensiones banorte": 64, 
- "pensiones bbva bancomer": 65, 
- "pensiones inbursa": 66, 
- "plan seguro": 67, 
- "plenit compania de seguros": 68, 
- "prevem seguros": 69, 
- "primero seguros": 70, 
- "profuturo gnp pensiones": 71, 
- "proteccion agropecuaria": 72, 
- "prudential seguros mexico":73, 
- "qualitas": 74, 
- "qualitas salud": 75, 
- "reaseguradora patria": 76, 
- "seguros afirme": 77, 
- "seguros argos": 78, 
- "seguros atlas": 79, 
- "seguros azteca": 80, 
- "seguros azteca danos": 81, 
- "seguros banamex": 82, 
- "seguros banorte": 83, 
- "seguros bbva bancomer": 84, 
- "seguros centauro": 85, 
- "seguros de credito a la vivienda shf": 86, 
- "seguros de las californias": 87, 
- "seguros el potosi": 88, 
- "seguros inbursa": 89, 
- "seguros monterrey new york life": 90, 
- "seguros sura": 91, 
- "seguros ve por mas": 92, 
- "servicios integrales de salud nova": 93, 
- "skandia life": 94, 
- "sofia salud": 95, 
- "sofimex": 96, 
- "solunion mexico seguros de credito": 97, 
- "sompo seguros mexico": 98, 
- "spp institucion de seguros": 99, 
- "spt": 100, 
- "stewart title guaranty de mexico": 101, 
- "swiss re corporate solutions mexico seguros": 102, 
- "thona seguros": 103, 
- "tlaloc seguros": 104, 
- "tokio marine": 105, 
- "tokio marine hcc mexico compania afianzadora": 106, 
- "umbrella compania de seguros": 107, 
- "virginia surety seguros de mexico": 108, 
- "zurich": 109, 
- "zurich aseguradora mexicana": 110, 
- "zurich fianzas mexico": 111, 
- "zurich santander seguros mexico": 112, 
- "zurich vida": 113}
+[
+    {
+        "nombreCorto": "allianz mexico",
+        "nombreCortoId": 5
+    },
+    {
+        "nombreCorto": "aserta seguros vida",
+        "nombreCortoId": 11
+    },
+    {
+        "nombreCorto": "assurant vida mexico",
+        "nombreCortoId": 13
+    },
+    {
+        "nombreCorto": "axa seguros",
+        "nombreCortoId": 17
+    },
+    {
+        "nombreCorto": "bbva bancomer seguros salud",
+        "nombreCortoId": 18
+    },
+    {
+        "nombreCorto": "bupa mexico",
+        "nombreCortoId": 21
+    },
+    {
+        "nombreCorto": "cardif mexico seguros de vida",
+        "nombreCortoId": 22
+    },
+    {
+        "nombreCorto": "chubb seguros mexico",
+        "nombreCortoId": 27
+    },
+    {
+        "nombreCorto": "dentegra seguros dentales",
+        "nombreCortoId": 33
+    },
+    {
+        "nombreCorto": "general de salud",
+        "nombreCortoId": 41
+    },
+    {
+        "nombreCorto": "grupo nacional provincial",
+        "nombreCortoId": 45
+    },
+    {
+        "nombreCorto": "hdi seguros",
+        "nombreCortoId": 47
+    },
+    {
+        "nombreCorto": "hsbc seguros",
+        "nombreCortoId": 49
+    },
+    {
+        "nombreCorto": "la latinoamericana seguros",
+        "nombreCortoId": 52
+    },
+    {
+        "nombreCorto": "mapfre mexico",
+        "nombreCortoId": 55
+    },
+    {
+        "nombreCorto": "medi access seguros de salud",
+        "nombreCortoId": 56
+    },
+    {
+        "nombreCorto": "metlife mexico",
+        "nombreCortoId": 58
+    },
+    {
+        "nombreCorto": "odontored seguros dentales",
+        "nombreCortoId": 61
+    },
+    {
+        "nombreCorto": "pan american mexico",
+        "nombreCortoId": 62
+    },
+    {
+        "nombreCorto": "plan seguro",
+        "nombreCortoId": 67
+    },
+    {
+        "nombreCorto": "plenit compania de seguros",
+        "nombreCortoId": 68
+    },
+    {
+        "nombreCorto": "prevem seguros",
+        "nombreCortoId": 69
+    },
+    {
+        "nombreCorto": "prudential seguros mexico",
+        "nombreCortoId": 73
+    },
+    {
+        "nombreCorto": "qualitas salud",
+        "nombreCortoId": 75
+    },
+    {
+        "nombreCorto": "reaseguradora patria",
+        "nombreCortoId": 76
+    },
+    {
+        "nombreCorto": "seguros atlas",
+        "nombreCortoId": 79
+    },
+    {
+        "nombreCorto": "seguros azteca",
+        "nombreCortoId": 80
+    },
+    {
+        "nombreCorto": "seguros banamex",
+        "nombreCortoId": 82
+    },
+    {
+        "nombreCorto": "seguros banorte",
+        "nombreCortoId": 83
+    },
+    {
+        "nombreCorto": "seguros bbva bancomer",
+        "nombreCortoId": 84
+    },
+    {
+        "nombreCorto": "seguros centauro",
+        "nombreCortoId": 85
+    },
+    {
+        "nombreCorto": "seguros de las californias",
+        "nombreCortoId": 87
+    },
+    {
+        "nombreCorto": "seguros inbursa",
+        "nombreCortoId": 89
+    },
+    {
+        "nombreCorto": "seguros monterrey new york life",
+        "nombreCortoId": 90
+    },
+    {
+        "nombreCorto": "seguros sura",
+        "nombreCortoId": 91
+    },
+    {
+        "nombreCorto": "seguros ve por mas",
+        "nombreCortoId": 92
+    },
+    {
+        "nombreCorto": "servicios integrales de salud nova",
+        "nombreCortoId": 93
+    },
+    {
+        "nombreCorto": "thona seguros",
+        "nombreCortoId": 103
+    },
+    {
+        "nombreCorto": "zurich aseguradora mexicana",
+        "nombreCortoId": 110
+    },
+    {
+        "nombreCorto": "zurich santander seguros mexico",
+        "nombreCortoId": 112
+    },
+    {
+        "nombreCorto": "zurich vida",
+        "nombreCortoId": 113
+    }
+]
