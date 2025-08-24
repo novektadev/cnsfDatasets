@@ -12,6 +12,10 @@
         "nombreCortoId": 13
     },
     {
+        "nombreCorto": "axa salud",
+        "nombreCortoId": 16
+    },
+    {
         "nombreCorto": "axa seguros",
         "nombreCortoId": 17
     },
@@ -38,6 +42,10 @@
     {
         "nombreCorto": "general de salud",
         "nombreCortoId": 41
+    },
+    {
+        "nombreCorto": "general de seguros",
+        "nombreCortoId": 42
     },
     {
         "nombreCorto": "grupo nacional provincial",
@@ -146,6 +154,10 @@
     {
         "nombreCorto": "servicios integrales de salud nova",
         "nombreCortoId": 93
+    },
+    {
+        "nombreCorto": "sofia salud",
+        "nombreCortoId": 95
     },
     {
         "nombreCorto": "thona seguros",
